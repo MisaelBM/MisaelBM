@@ -5,11 +5,12 @@
         </section>
         <section>
             <h2>Contatos</h2>
-            <ul>
-                <li><a href="http://www.linkedin.com/in/misael-bonifacio-morgado-921a7a268" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a></li>
-                <li><a href="mailto:morgadoandreia84misael@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></li>
-                <li><a href="http:///wa.me/+5512988890194" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a></li>
-            </ul>
+            <div>
+
+<a href="http://www.linkedin.com/in/misael-bonifacio-morgado-921a7a268" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+            <a href="mailto:morgadoandreia84misael@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+            <a href="http:///wa.me/+5512988890194" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+            </div>
         </section>
         <section>
             <h2>Linguagens e Tecnologias</h2>
