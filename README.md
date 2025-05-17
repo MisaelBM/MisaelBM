@@ -13,23 +13,33 @@
             </div>
         </section>
         <section>
-            <h2>Linguagens e Tecnologias</h2>
+            <h2>Linguagens</h2>
             <div>
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Javascript">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=39856&format=png&color=000000" alt="PHP">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=TINShjDQ0nw4&format=png&color=000000" alt="Java">
+            </div>
+            <div>
+                <h2>Tecnologias</h2>
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS">
-                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Javascript">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=p57acgidi9bj&format=png&color=000000" alt="React">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=nvrsJYs7j9Vb&format=png&color=000000" alt="Nuxt.js">
-                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="Flask">
-                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=39856&format=png&color=000000" alt="PHP">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" alt="SQL">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostegreSQL">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="MongoDB">
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git">
+            <div>   
+                <h2>IDE</h2>
                 <img width="50" height="50" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000" alt="VSCode">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="FireBase">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000" alt="Sublieme Text">
+                <img width="50" height="50" src="https://img.icons8.com/?size=100&id=25591&format=png&color=000000" alt="Notepad++">
+            </div>    
             </div>
         </section>
     </main>
