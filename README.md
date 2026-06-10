@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=Misael%20Morgado&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20IA%20%26%20Automação&descAlignY=58&descColor=a8d8f0" />
-
-</div>
-
----
-
 ### 👋 Olá! Eu sou o Misael
 
 Desenvolvedor de Software com foco em **automação inteligente**, **análise de dados** e **integração de IA**. Atualmente estudando Análise e Desenvolvimento de Sistemas no SENAI Taubaté e trabalhando como Dev Jr na GSW Software.
@@ -47,21 +39,6 @@ misael = {
 ![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MisaelMorgado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=1F4E79"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelMorgado&layout=compact&langs_count=7&theme=tokyonight&border_color=1F4E79"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MisaelMorgado&theme=tokyonight&border=1F4E79" />
-</div>
-
----
 
 ### 🏆 Projetos em Destaque
 
